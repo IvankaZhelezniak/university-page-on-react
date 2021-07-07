@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/university-page-on-react/static/css/main.aaf6a6e4.chunk.css",
+    "main.js": "/university-page-on-react/static/js/main.180bf817.chunk.js",
+    "main.js.map": "/university-page-on-react/static/js/main.180bf817.chunk.js.map",
+    "runtime-main.js": "/university-page-on-react/static/js/runtime-main.f6be576b.js",
+    "runtime-main.js.map": "/university-page-on-react/static/js/runtime-main.f6be576b.js.map",
+    "static/js/2.8e46f507.chunk.js": "/university-page-on-react/static/js/2.8e46f507.chunk.js",
+    "static/js/2.8e46f507.chunk.js.map": "/university-page-on-react/static/js/2.8e46f507.chunk.js.map",
+    "index.html": "/university-page-on-react/index.html",
+    "static/css/main.aaf6a6e4.chunk.css.map": "/university-page-on-react/static/css/main.aaf6a6e4.chunk.css.map",
+    "static/js/2.8e46f507.chunk.js.LICENSE.txt": "/university-page-on-react/static/js/2.8e46f507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6be576b.js",
+    "static/js/2.8e46f507.chunk.js",
+    "static/css/main.aaf6a6e4.chunk.css",
+    "static/js/main.180bf817.chunk.js"
+  ]
+}
